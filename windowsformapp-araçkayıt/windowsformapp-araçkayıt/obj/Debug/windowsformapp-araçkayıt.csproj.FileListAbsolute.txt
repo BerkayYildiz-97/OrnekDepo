@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\bin\Debug\windowsformapp-araçkayıt.exe.config
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\bin\Debug\windowsformapp-araçkayıt.exe
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\bin\Debug\windowsformapp-araçkayıt.pdb
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\obj\Debug\windowsformapp-araçkayıt.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\obj\Debug\windowsformapp_araçkayıt.Form1.resources
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\obj\Debug\windowsformapp_araçkayıt.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\obj\Debug\windowsformapp-araçkayıt.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\obj\Debug\windowsformapp-araçkayıt.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\obj\Debug\windowsformapp-araçkayıt.exe
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\obj\Debug\windowsformapp-araçkayıt.pdb
+C:\Users\Lenovo\source\repos\windowsformapp-araçkayıt\windowsformapp-araçkayıt\obj\Debug\windowsformapp_araçkayıt.Form2.resources

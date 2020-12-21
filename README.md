@@ -1,2 +1,0 @@
-# OrnekDepo
-asdasdad
