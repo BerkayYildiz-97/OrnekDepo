@@ -28,7 +28,7 @@ namespace MVC_Layout.Controllers
             return RedirectToAction("Index");
         }
 
-        public ActionResult RemoveCustomer(int customerId)
+        public ActionResult RemoveCustomer(string customerId)
         {
             var customer = db.Customers.Find(customerId);
             if (customer != null)
@@ -40,7 +40,7 @@ namespace MVC_Layout.Controllers
             return View();
         }
 
-        public ActionResult UpdateCustomer(int customerId)
+        public ActionResult UpdateCustomer(string customerId)
         {
             var customer = db.Customers.Find(customerId);
             return View(customer);
